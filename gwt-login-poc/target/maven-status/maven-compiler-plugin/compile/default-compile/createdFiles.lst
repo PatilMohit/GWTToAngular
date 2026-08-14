@@ -1,0 +1,8 @@
+com\example\gwt\GwtLoginApplication.class
+com\example\gwt\client\LoginEntryPoint$1.class
+com\example\gwt\server\UserEntity.class
+com\example\gwt\shared\LoginResponse.class
+com\example\gwt\client\LoginService.class
+com\example\gwt\client\LoginServiceAsync.class
+com\example\gwt\server\LoginServiceImpl.class
+com\example\gwt\client\LoginEntryPoint.class
